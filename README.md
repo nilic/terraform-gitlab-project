@@ -1,3 +1,9 @@
+# Terraform module for GitLab project creation
+
+This module allows for creating a GitLab project via Terraform.
+
+Additionally, various project settings can be defined such as user membership, merge method, container registry, squash options etc.
+
 ## Requirements
 
 | Name | Version |
